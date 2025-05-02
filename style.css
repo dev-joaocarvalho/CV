@@ -1,56 +1,37 @@
-
 body {
- 
-font-family: Arial, Helvetica, sans-serif;
- 
-color:white;
- 
-background-color: #004f40
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    background-color: #001615
 }
-h1 {
- 
-color: #edbb6c;
- 
-text-align: center;
-}
-h2 {
- 
-color: #edbb6c;
- 
-margin-top: 20px;
- 
-text-align: center;
-}
-h3 {
- 
-color: #e2caa5;
-} 
-h4 {
- 
-color: #ffffff;
-}
-a {
- 
-color: #6eed6c;
-}
-.container {
- 
-padding: 0px 100px;
-}
-p {
- 
-text-align: center;
-}
-nav ul{
- 
-display: flex;
- 
-justify-content: space-between;
- 
-align-items: center;
- 
-list-style: none;
- 
-padding: 0px 530px;
+h1, h2 {
+    color: #e6523a;
+    text-align: center;
 }
 
+h3 {
+    color: #e2caa5;
+}   
+
+h4 {
+    color: #fffffc;
+}
+
+a {
+    color: #b01d1d6f;
+}
+
+.container {
+    padding: 0px 100px;
+}
+
+p {
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0px 530px;
+}
