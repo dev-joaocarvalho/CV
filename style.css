@@ -3,8 +3,13 @@ body {
     color:white;
     background-color: #000000
 }
-h1, h2 {
-    color: #e6523a;
+h1{
+    color: #ff0000;
+    text-align: center;
+}
+
+h2 {
+    color: #eeff00;
     text-align: center;
 }
 
@@ -17,7 +22,7 @@ h4 {
 }
 
 a {
-    color: #b01d1d6f;
+    color: #b0ae1dd8;
 }
 
 .container {
